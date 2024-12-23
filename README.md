@@ -4,7 +4,7 @@
 **amitsindhwani/amitsindhwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-I am working as a Client Success Partner at R Systems, dedicated to fostering lasting client relationships and driving revenue growth. My passion lies in empowering clients on their digital transformation journeys and delivering high-quality digital product engineering solutions. With a focus on understanding unique business challenges, I craft and present tailored strategies while staying inspired by the joy of hands-on coding.
+I am a Client Success Partner at R Systems, dedicated to fostering lasting client relationships and driving revenue growth. My passion lies in empowering clients on their digital transformation journeys and delivering high-quality digital product engineering solutions. Focusing on understanding unique business challenges, I craft and present tailored strategies while staying inspired by the joy of hands-on coding.
 
 As someone who bridges strategy with execution, I thrive on transforming ideas into impactful solutions that make a difference. You can reach me through [LinkedIn](https://www.linkedin.com/in/amit-sindhwani).
 
