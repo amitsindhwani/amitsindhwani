@@ -20,4 +20,5 @@ I recently enrolled in the **Machine Learning Foundation Certification program**
 - **Data Visualization Tools** such as NumPy and Pandas.
 - **Deep Learning Algorithms** using TensorFlow and PyTorch.
 - **End-to-End Machine Learning Projects**, applying theoretical knowledge to real-world problems.
+
 This repository showcases assignments and projects completed during this enriching learning journey.
